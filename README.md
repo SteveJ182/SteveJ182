@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SteveJ182
-- 👀 I’m interested in psychology, math, anime, politics, economics, astronomy, D-Day
+- 👀 I’m interested in psychology, math, anime, astronomy, and renewable energy
 - 🌱 I’m currently learning Python, HTML and CSS, Javascript, PHP, MYSQL
 - 💞️ I’m looking to collaborate
 <!--- 📫 How to reach me--->
